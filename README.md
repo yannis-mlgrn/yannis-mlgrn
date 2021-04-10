@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on a discord bot
-- 🌱 I’m currently learning java-script and PHP
+- 🌱 I’m currently learning java script and PHP
 
 <!--
 **yannis-mlgrn/yannis-mlgrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
