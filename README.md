@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a discord bot
-- 🌱 I’m currently learning java script and PHP
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on javaScript and PHP
+- 🌱 I’m currently learning everything I can find
+- 📫 How to reach me: [twitter](https://twitter.com/YannisMalgorn)
 
 <!--
 **yannis-mlgrn/yannis-mlgrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
