@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on javaScript and PHP
+- 🔭 I’m currently working on a discord bot in javaScript
 - 🌱 I’m currently learning everything I can find
 - 📫 How to reach me: [twitter](https://twitter.com/YannisMalgorn)
 
