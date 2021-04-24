@@ -5,6 +5,8 @@
 
 ![Yannis Stats](https://github-readme-stats.vercel.app/api?username=yannis-mlgrn&show_icons=true&count_private=true&theme=dark)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yannis-mlgrn" alt="Yannis Malgorn" /> </p>
+
 
 
 <!--
