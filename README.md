@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning everything I can find
 - 📫 How to reach me: [twitter](https://twitter.com/YannisMalgorn)
-
+![mystat]("https://github-readme-stats.vercel.app/api?username=yannis-mlgrn&show_icons=true&count_private=true&theme=dark")
 <!--
 **yannis-mlgrn/yannis-mlgrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
