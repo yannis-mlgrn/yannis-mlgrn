@@ -1,7 +1,8 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yannisMalgorn)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/yannis_mlgrn/)
+
 
 ## About me : 
 
@@ -31,4 +32,36 @@ Joined Github **3** years ago.
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=yannis-mlgrn&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </details>
 
+<details>
+  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
 
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/mdl29/Scratchy"><b>🚀 scratchy</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/mdl29/Scratchy?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/mdl29/Scratchy?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/mdl29/Scratchy?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mdl29/Scratchy?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/mdl29/Scratchy?style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/CovidTrackerFr/vitemadose-front"><b>🚀 vitemadose-front</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/CovidTrackerFr/vitemadose-front?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/CovidTrackerFr/vitemadose-front?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/CovidTrackerFr/vitemadose-front?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/CovidTrackerFr/vitemadose-front?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/CovidTrackerFr/vitemadose-front?style=flat-square"/></td>
+      </tr>
+</details>
