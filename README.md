@@ -9,27 +9,18 @@ I am in high school 🎓 and 16 years old. I'm a passionate learner who's always
 
 Joined Github **3** years ago.
 
-## 📈 my stats : 
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+  <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yannis-mlgrn&show_icons=true" >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yannis-mlgrn&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yannis-mlgrn&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![yannis-mlgrn's GitHub stats](https://github-readme-stats.vercel.app/api?username=yannis-mlgrn&show_icons=true&theme=merko)
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=yannis-mlgrn&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</details>
 
 
-
-
-
-
-<!--
-**yannis-mlgrn/yannis-mlgrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
