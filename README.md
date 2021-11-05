@@ -21,13 +21,6 @@ Joined Github **3** years ago.
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
   <br/>
- <details>
- <summary><b> 👨‍💻 programming times stats</b></summary>
- <br>
- <!--START_SECTION:waka-->
-
- <!--END_SECTION:waka-->
- </details>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yannis-mlgrn&show_icons=true" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yannis-mlgrn&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
