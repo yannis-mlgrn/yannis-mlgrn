@@ -6,8 +6,10 @@
 ![Yannis Stats](https://github-readme-stats.vercel.app/api?username=yannis-mlgrn&show_icons=true&count_private=true&theme=dark)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yannis-mlgrn&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![yannis-mlgrn's GitHub stats](https://github-readme-stats.vercel.app/api?username=yannis-mlgrn&show_icons=true&theme=merko)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yannis-mlgrn" alt="Yannis Malgorn" /> </p>
+
+
 
 
 
