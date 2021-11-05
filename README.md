@@ -33,7 +33,7 @@ Joined Github **3** years ago.
 </details>
 
 <details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+  <summary><b>🧑‍🚀 Open Source Projects where I have contibuted </b></summary>
 
   <br />
   <table>
