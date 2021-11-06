@@ -64,5 +64,15 @@ Joined Github **3** years ago.
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/CovidTrackerFr/vitemadose-front?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/CovidTrackerFr/vitemadose-front?style=flat-square"/></td>
       </tr>
+	</table>
+</details>
+	
+<details> 
+<summary><b>🧑‍💻 weekly development stats </b></summary>
+<br/>
+<!--START_SECTION:waka-->
+	
+<!--END_SECTION:waka-->
+	  
 </details>
 	
