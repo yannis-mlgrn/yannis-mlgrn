@@ -10,6 +10,7 @@ I am in high school 🎓 and 16 years old. I'm a passionate learner who's always
 
 Joined Github **3** years ago.
 
+
 ## Languages and Tools:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
@@ -70,10 +71,13 @@ Joined Github **3** years ago.
 <details> 
 <summary><b>🧑‍💻 weekly development stats </b></summary>
 <br/>
- <!--START_SECTION:waka-->
-```text
-JavaScript   21 mins         ████████████████████████░   96.32 % 
+	
+	
+<!--START_SECTION:waka-->
+```text	
+JavaScript   21 mins         ████████████████████████░   96.32 % 	
 ```
 <!--END_SECTION:waka--> 
+
 </details>
 	
