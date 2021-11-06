@@ -33,8 +33,6 @@ Joined Github **3** years ago.
 	<!--START_SECTION:activity-->
         <!--END_SECTION:activity-->
 	  <br/>
-	  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yannis-mlgrn&show_icons=true" >
-	  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yannis-mlgrn&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 	</details>
 </details>
 
