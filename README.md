@@ -70,11 +70,7 @@ Joined Github **3** years ago.
 <details> 
 <summary><b>🧑‍💻 weekly development stats </b></summary>
 <br/>
-<!--START_SECTION:waka-->
-```text
-JavaScript   21 mins         ████████████████████████░   96.32 % 
-```
-<!--END_SECTION:waka-->
-	  
+ <!--START_SECTION:waka-->
+ <!--END_SECTION:waka--> 
 </details>
 	
