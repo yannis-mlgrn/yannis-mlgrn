@@ -68,16 +68,11 @@ Joined Github **3** years ago.
 </details>
 	
 <details> 
-<summary><b>🧑‍💻 weekly development stats </b></summary>
+<summary><b>🧑‍💻 development stats </b></summary>
 <br/>
 	
 	
 <!--START_SECTION:waka-->
-```text
-Week: 30 October, 2021 - 05 November, 2021
-
-JavaScript   21 mins         ████████████████████████░   96.32 % 
-```
 <!--END_SECTION:waka--> 
 
 </details>
