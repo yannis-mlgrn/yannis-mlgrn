@@ -69,5 +69,6 @@ Joined Github **3** years ago.
 <details> 
 <summary><b>🧑‍💻 development stats </b></summary>
 <br/>	
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </details>
