@@ -1,6 +1,3 @@
-<!--START_SECTION:waka-->	
-
-<!--END_SECTION:waka--> 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yannisMalgorn)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/yannis_mlgrn/)
@@ -72,7 +69,5 @@ Joined Github **3** years ago.
 <details> 
 <summary><b>🧑‍💻 development stats </b></summary>
 <br/>	
-<!--START_SECTION:waka-->	
-<!--END_SECTION:waka--> 
+
 </details>
-	
