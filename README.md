@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yannisMalgorn)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/yannis_mlgrn/)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yannis-mlgrn&left_color=yellow&right_color=yellow)
+![](https://gitwar.herokuapp.com/badge?username=yannis-mlgrn&style=flat-square)
 
 ## About me : 
 
