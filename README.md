@@ -1,7 +1,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yannisMalgorn)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/yannis_mlgrn/)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yannis-mlgrn&left_color=red&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yannis-mlgrn&left_color=yellow&right_color=yellow)
 
 ## About me : 
 
@@ -9,6 +9,7 @@ I am in high school 🎓 and 16 years old. I'm a passionate learner who's always
 
 Joined Github **3** years ago.
 
+🔭 - member of [@mdl29]( http://mdl29.net) association  
 
 ## Languages and Tools:
 
@@ -66,3 +67,7 @@ Joined Github **3** years ago.
       </tr>
 	</table>
 </details>
+<details>
+  <summary><b>🧑🏼‍💻 development and random stats</b></summary>
+
+  <br />
