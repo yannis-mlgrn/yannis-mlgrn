@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yannisMalgorn)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/yannis_mlgrn/)
-![](https://gitwar.herokuapp.com/badge?username=yannis-mlgrn&style=flat-square)
+
 
 ## About me : 
 
@@ -68,7 +68,10 @@ Joined Github **3** years ago.
       </tr>
 	</table>
 </details>
-<details>
-  <summary><b>🧑🏼‍💻 development and random stats</b></summary>
+<details>	
+  <summary><b>🙈 Do you want read a joke ?</b></summary>
+  <br/>	
 
-  <br />
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0)
+</details>
+
