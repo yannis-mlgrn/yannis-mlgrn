@@ -6,8 +6,8 @@
 
 ## About me : 
 
-I am in high school 🎓 and 16 years old. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.  I'm currently into cyber security🕸️ and working on a python hacking [tools box](https://github.com/yannis-mlgrn/pyHackBox) .
-
+I am in high school 🎓 and 16 years old. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. <!-- I'm currently 
+-->
 Joined Github **3** years ago.
 
 🔭 - member of [@mdl29]( http://mdl29.net) association  
