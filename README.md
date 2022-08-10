@@ -77,9 +77,7 @@ Joined Github **3** years ago.
 	</table>
 </details>
 <details>	
-  <summary><b>🙈 Do you want read a joke ?</b></summary>
-  <br/>	
-
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0)
+  <summary><b>🏆 My cyber-security skills</b></summary>
+   <script src="https://tryhackme.com/badge/269675"></script>
 </details>
 
