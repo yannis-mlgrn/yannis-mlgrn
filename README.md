@@ -1,6 +1,6 @@
 ![header](header.png)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yannisMalgorn)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yannis_mlgrn)
 ![](https://komarev.com/ghpvc/?username=yannis-mlgrn&label=PROFILE+VIEWS&color=yellow)
 
 ## About me : 
