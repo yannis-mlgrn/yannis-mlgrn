@@ -78,6 +78,6 @@ Joined Github **3** years ago.
 <details>	
   <summary><b>🏆 My cyber-security skills</b></summary>
   <br>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/yannismlgrn.png" alt="TryHackMe">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/yannismlgrn.png" alt="TryHackMe">
 </details>
 
