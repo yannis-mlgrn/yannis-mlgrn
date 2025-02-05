@@ -11,14 +11,17 @@ Joined Github **5** years ago.
 
 🔭 - member of [@mdl29]( http://mdl29.net) association  
 
-## Languages and Tools:
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php"></code>
-<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/langfr-1024px-Vue.js_Logo_2.svg.png" alt="vuejs"></code>
+<h2 align = "center"> Languages - Frameworks - Tools- Operation Systems </h2>
+
+<br/>
+
+<div align = "center">
+
+  <a href = "https://skillicons.dev">
+    <img src = "https://skillicons.dev/icons?i=arduino,python,linux,docker,html,css,js,git,github,raspberrypi,vscode,ubuntu,md,npm" /> <br>
+
+</div>
 
 <div align = "center">
   <h2> 🐍 My Contributions 🐍 </h2>
