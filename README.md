@@ -20,6 +20,12 @@ Joined Github **5** years ago.
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/langfr-1024px-Vue.js_Logo_2.svg.png" alt="vuejs"></code>
 
+<div align = "center">
+  <h2> 🐍 My Contributions 🐍 </h2>
+  <br>
+  <img src = "https://github.com/yannis-mlgrn/yannis-mlgrn/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
   <br/>	
