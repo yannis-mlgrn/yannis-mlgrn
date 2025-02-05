@@ -19,7 +19,7 @@ Joined Github **5** years ago.
 <div align = "center">
 
   <a href = "https://skillicons.dev">
-    <img src = "https://skillicons.dev/icons?i=arduino,python,linux,docker,html,css,js,git,github,raspberrypi,bash,vscode,ubuntu,md,npm,cpp" /> <br>
+    <img src = "https://skillicons.dev/icons?i=arduino,python,linux,docker,html,css,js,git,php,github,raspberrypi,bash,vscode,ubuntu,md,npm,cpp" /> <br>
 
 </div>
 
