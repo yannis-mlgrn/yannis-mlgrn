@@ -5,7 +5,7 @@
 
 ## About me : 
 
-I am in high school 🎓 and 19 years old. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. <!-- I'm currently 
+I am in high school 🎓 and 21 years old. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. <!-- I'm currently 
 -->
 Joined Github **5** years ago.
 
